@@ -5,9 +5,9 @@
 
 ## 書き込む手順
 
-1.  JecProjectをフォークする
+1.  JecProjectをForkする
 2.  手を加える
-3.  pull requestを送る
+3.  Pull Requestを送る
 
 ## 作った人
 
